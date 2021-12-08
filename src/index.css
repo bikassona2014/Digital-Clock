@@ -1,0 +1,16 @@
+body{
+  margin: 100px;
+  background-color:blueviolet;
+}
+
+div{
+  margin:100px;
+  display: flex;
+  color:white;
+  justify-content: center;
+  font-family: 'Orbitron', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
